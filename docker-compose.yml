@@ -10,7 +10,8 @@ services:
       - LANG=de
       # ⚠️ Required:
       # Change this to your host's public address
-      - WG_HOST=raspberrypi.local
+      - WG_HOST=108.174.57.115
+      - PASSWORD=renkun7410
 
       # Optional:
       # - PASSWORD=foobar123
